@@ -14,12 +14,12 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 
 ### Weapon BuyScript -- NumPAD Style
 
-1 - AWP, Defuser
-2 - M4A1, Defuser
-3 - AK47, Defuser
-4 - Inc-Grenade or Molotov
-5 - Decoy
-6 - Defuser(if CT), Vest, VestHelm
-7 - SmokeGrenade
-8 - FlashBang
-9 - HE Grenade
+1. - AWP, Defuser
+2. - M4A1, Defuser
+3. - AK47, Defuser
+4. - Inc-Grenade or Molotov
+5. - Decoy
+6. - Defuser(if CT), Vest, VestHelm
+7. - SmokeGrenade
+8. - FlashBang
+9. - HE Grenade
