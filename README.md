@@ -14,19 +14,6 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 
 ### Weapon BuyScript -- NumPAD Style
 
---- --- ---
-|7| |8| |9|
---- --- ---
---- --- ---
-|4| |5| |6|
---- --- ---
---- --- ---
-|1| |2| |3|
---- --- ---
-------- ---
-|  0  | |,|
-------- ---
-
 1 - AWP, Defuser
 2 - M4A1, Defuser
 3 - AK47, Defuser
