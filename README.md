@@ -7,6 +7,7 @@ After the Wild West Simulator 2015 update, *video.txt* needs to be put in `...\S
 ### Launch Options
 
 You may adjust the value of 120 to your monitors Hertz (e.g. 144)
+NOTE(!): Only add "+exec autoexec.cfg" if your autoexec doesn't execute on load, some players experienced this
 
 	-novid -refresh 120 -freq 120 -tickrate 128 -nojoy -nod3d9ex1 +exec autoexec.cfg
 
