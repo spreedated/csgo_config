@@ -24,3 +24,7 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 7. - SmokeGrenade
 8. - FlashBang
 9. - HE Grenade
+
+### Like this? - Want to contribute?
+
+<a href="https://www.buymeacoffee.com/Kz9rRQTjo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
